@@ -1,0 +1,13 @@
+{
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "karateRunner.karateRunner.default": "ContentAPIRunner",
+  "java.configuration.updateBuildConfiguration": "automatic"
+  "files.associations": {
+    "*.feature": "feature"
+  },
+  "[feature]": {
+    "editor.defaultFormatter": "alexkrechik.cucumberautocomplete"
+  }
+}
