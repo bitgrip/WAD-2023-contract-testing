@@ -9,7 +9,7 @@ function fn() {
     myVarName: "someValue",
   };
   baseURL = "https://fakestoreapi.com/";
-  testData = read("websiteTestData.json");
+  testData = read("classpath:store/websiteTestData.json");
 
   return config;
 }

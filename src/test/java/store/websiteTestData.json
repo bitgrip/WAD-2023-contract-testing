@@ -10,5 +10,17 @@
       "title": "Mens Casual Slim Fit",
       "price": 15.99
     }
+  },
+  "users": {
+    "user_1": {
+      "id": 1,
+      "email": "john@gmail.com",
+      "phone": "1-570-236-7033"
+    },
+    "user_2": {
+      "id": 2,
+      "email": "morrison@gmail.com",
+      "phone": "1-567-094-1345"
+    }
   }
 }
