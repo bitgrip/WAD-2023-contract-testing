@@ -8,8 +8,12 @@ function fn() {
     env: env,
     myVarName: "someValue",
   };
-  baseURL = "https://fakestoreapi.com/";
-  testData = read("classpath:store/websiteTestData.json");
 
+  if (env == "dev") {
+    baseURL = "https://fakestoreapi.com/";
+  } else if (env == "mock") {
+    baseURL = "http://localhost:8081/";
+  }
+  testData = read("classpath:store/websiteTestData.json");
   return config;
 }
