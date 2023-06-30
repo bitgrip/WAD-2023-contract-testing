@@ -1,14 +1,14 @@
 {
   "products": {
+    "product_1": {
+      "id": 1,
+      "title": "Mens Casual Slim Fit",
+      "price": 109.55
+    },
     "product_3": {
       "id": 3,
       "title": "Mens Cotton Jacket",
       "price": 55.99
-    },
-    "product_4": {
-      "id": 4,
-      "title": "Mens Casual Slim Fit",
-      "price": 15.99
     }
   },
   "users": {
