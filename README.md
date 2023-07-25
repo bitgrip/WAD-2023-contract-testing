@@ -1,6 +1,6 @@
 ## Purpose
 
-This Repository was created to share the code snippets shown during the Talk **Contract Testing - How do you tame an external API that constantly breaks your tests?** at WeAreDevelopers 2023. It contains automatic API tests using the karate framework. They are meant to be run against the sample api at [https://fakestoreapi.com/](https://fakestoreapi.com/).
+This Repository was created to share the code snippets shown during the talk **Contract Testing - How do you tame an external API that constantly breaks your tests?** at WeAreDevelopers 2023. It contains automatic API tests using [the karate framework](https://github.com/karatelabs/karate). They are meant to be run against the sample api at [https://fakestoreapi.com/](https://fakestoreapi.com/).
 
 ## Testing
 
