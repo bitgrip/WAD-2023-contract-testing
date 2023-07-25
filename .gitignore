@@ -71,3 +71,6 @@ $RECYCLE.BIN/
 
 /target
 *.jar
+
+# IDE
+/.vscode
